@@ -1,0 +1,11 @@
+# Python environment shared by both tools in this repository
+.venv/
+venv/
+
+# Python build and cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store

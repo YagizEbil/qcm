@@ -1,0 +1,4 @@
+pyserial>=3.5
+PySide6-Essentials>=6.5
+pyqtgraph>=0.13
+matplotlib>=3.5
